@@ -1,6 +1,4 @@
-# Eighth Challenge
-
-## Snake Game
+# Snake Game
 
 This is a snake game project implemented in Python using the Tkinter library for the graphical interface. The game follows the classic mechanics: control a snake that grows by eating food while avoiding collisions with itself or the edges of the board.
 
